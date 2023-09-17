@@ -1,5 +1,5 @@
 # MasterDegreeStocksForecasting
-This is my maser's degree thesis project codebase, by Gabriele Destro  
+This is my maser's degree thesis project codebase, by Gabriele D.
 
 This codebase comprehends also my project code for the pdf extractor that has been accepted by ITAL - IA 2023, AI conference.  
 
